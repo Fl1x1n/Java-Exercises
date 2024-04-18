@@ -1,0 +1,7 @@
+package org.ficha_trabalho7;
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+    }
+}
